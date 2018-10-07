@@ -1,0 +1,4 @@
+#Sat Oct 06 23:03:17 IST 2018
+base.0=/home/anonymous/AndroidStudioProjects/MyWeatherApp/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
